@@ -1,4 +1,6 @@
 ## Summary 
+
+You can access  details of analysis from the Pretest&Interim_Data_Exploration&Analysis.ipynb notebook .
 ### Task 1
 #### Questions?
 
