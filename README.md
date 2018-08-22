@@ -11,7 +11,9 @@
 * İİİ) 130 students have got their pretest score  but not interim score. For Students that didn't have Interim score, we can either drop them so that our data will not be skewed or we can replace them its Interim Score from NULL to the Interim MEAN Values or Min or Max values.
 
 ### Task 2
+#### Question?
 *  What percentage of English Learners at each school grew at least one Lexile level from the Pretest to the Interim Test? 
+#### Answer
 *  English Learners at each school 16.0 percent grew at least one Lexile level from the Pretest to the Interim Test.
 
 
